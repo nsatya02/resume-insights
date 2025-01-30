@@ -15,7 +15,7 @@ Resume Insights is an advanced resume parsing and analysis tool that leverages t
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/nsatya02/resume-insights.git]
+   git clone [https://github.com/nsatya02/resume-parser.git]
    cd resume-insights
    ```
 
