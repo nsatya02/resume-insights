@@ -12,8 +12,8 @@ import os
 
 from models import Candidate, JobSkill
 
-GOOGLE_API_KEY = "AIzaSyAsu-AnHah9TueTnGq1kwMR1kan72Eltvk"
-LLAMA_CLOUD_API_KEY = "llx-Wc5VegSFgjGa69NE7BdaSKiiWAuGaNYK896UuK0ETVdk5ydM"
+GOOGLE_API_KEY = "api-key"
+LLAMA_CLOUD_API_KEY = "api-key"
 
 
 class ResumeInsights:
